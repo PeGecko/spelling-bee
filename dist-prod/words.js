@@ -139,10 +139,6 @@ loadWords({
       "definition": "A pain-relieving and fever-reducing drug (e.g., Tylenol)"
     },
     {
-      "word": "ACHROMATOPHIL",
-      "definition": "Not easily stained (in biology)"
-    },
-    {
       "word": "ACHROMATOPHILIA",
       "definition": "Lack of affinity for stains (in biology)"
     },
